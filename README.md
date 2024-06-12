@@ -1,5 +1,3 @@
-Project Overview
-
 # IPL Data Analysis with Apache Spark
 
 ## Project Overview
